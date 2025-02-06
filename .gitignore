@@ -1,0 +1,14 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directory
+build/
+
+# CMake
+cmake-build-*
+
+# Other
+.vscode
+.idea
